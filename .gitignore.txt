@@ -1,0 +1,22 @@
+# 파이썬 컴파일된 파일
+__pycache__/
+*.pyc
+*.pyo
+
+# 가상 환경
+venv/
+env/
+
+# IDE 설정
+.vscode/
+.idea/
+
+# 로그 파일
+*.log
+
+# 운영체제 생성 파일
+.DS_Store
+Thumbs.db
+
+# etc
+.pdf

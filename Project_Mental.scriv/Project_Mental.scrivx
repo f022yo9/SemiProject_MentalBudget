@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="3AC59F48-3823-44FD-B1CD-5AE9F66A2DB6" Version="2.0" Creator="SCRMAC-3.3.1-15566" Device="Macbook-Fro" Author="" Modified="2023-04-05 00:03:34 +0900" ModID="90AEBAB3-5023-4955-82E1-F833591E2434">
+    <Binder>
+        <BinderItem UUID="48A5DCAC-11AA-434A-8DE1-F5C293BE283A" Type="Folder" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+            <Title>Notes</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Notes (Blue Notepad)</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="1D1A1948-6F80-497A-8B99-466F819C0C79" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>스터디 방향</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>137,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="72ABFE97-89AB-49DF-A581-7605F372E2F6" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>단어장</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>65,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="5B45770A-873D-4D0E-BEC7-8AA466F6C799" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>열한 가지 비합리적 사고</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>465,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="42855EA4-DB35-4A7D-A619-61A3DFB319A2" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>차세영 자기소개서</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1283,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="86FF81CE-5960-45A0-ABC4-80C50BB4533B" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>김미영 학업계획서</Title>
+                    <TextSettings>
+                        <TextSelection>145,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="06B6F846-1AEF-49F0-8A83-F2585813444A" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>노유리 학업계획서</Title>
+                    <TextSettings>
+                        <TextSelection>2138,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="D2ACF724-52A5-4702-AF4D-FDB1C390BC18" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>최기홍 교수님께 01</Title>
+                    <TextSettings>
+                        <TextSelection>741,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="438A7485-D15F-4E5D-8242-B1342D9AF927" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                            <Title>답변</Title>
+                            <TextSettings>
+                                <TextSelection>241,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="B6C55511-2734-4414-A8AA-1C056DA41DD5" Type="DraftFolder" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+            <Title>Paper</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="8F018F4B-64FE-4327-AC3F-068EA23AFD88" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-04-03 12:53:33 +0900">
+                    <Title>프로젝트 전개 개요</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>364,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="C36E4978-E3D3-4A5C-9C88-2B69163AF3E0" Type="Text" Created="2023-03-20 17:16:50 +0900" Modified="2023-03-22 16:32:03 +0900">
+                            <Title>1. 우울 불안 장애 현황 파악</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>8,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem UUID="AEA4F7B7-95B4-4E16-93E4-53E281405F10" Type="Text" Created="2023-03-20 17:24:01 +0900" Modified="2023-04-04 19:57:22 +0900">
+                                    <Title>이 연구가 필요한 이유</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>444,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="B22EBE53-626A-42AF-9B67-20AEDB775C37" Type="Text" Created="2023-03-30 18:28:45 +0900" Modified="2023-03-31 16:55:20 +0900">
+                    <Title>의료기관 분류</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>742,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="A1434377-F017-4724-B730-F9FA8715DAFB"/>
+                    </Bookmarks>
+                </BinderItem>
+                <BinderItem UUID="A1434377-F017-4724-B730-F9FA8715DAFB" Type="Text" Created="2023-03-30 18:30:09 +0900" Modified="2023-03-31 17:57:31 +0900">
+                    <Title>발표 대본</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>49,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="5592A884-CB00-4937-93FF-4470EBC2C920" Type="Text" Created="2023-04-03 15:11:48 +0900" Modified="2023-04-04 22:13:46 +0900">
+                            <Title>본문</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>340,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="D4E3CDBA-A97F-4D2A-9F03-F5D789FE46F7" Type="Text" Created="2023-03-31 14:35:07 +0900" Modified="2023-04-04 22:14:16 +0900">
+                            <Title>한계점</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>79,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem UUID="4E27A260-77B3-43BE-A4B1-3B4232ED6B96" Type="Text" Created="2023-04-03 15:46:37 +0900" Modified="2023-04-05 00:03:34 +0900">
+                            <Title>참고문헌 및 출처</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>442,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="16F770AA-4643-4A56-B0ED-A99709CB903B" Type="Text" Created="2023-04-03 20:52:57 +0900" Modified="2023-04-04 19:57:06 +0900">
+                    <Title>할 일</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>135,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="C9765349-22A8-441A-BC37-B25C347E3381" Type="ResearchFolder" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="167EB7B8-8150-4BA8-859D-DB5AED842700" Type="Text" Created="2023-04-03 19:07:34 +0900" Modified="2023-04-03 19:07:57 +0900">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>87,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="C179F1A2-723D-4814-94F9-405DF9868E62" Type="Folder" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+            <Title>Ideas</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <IconFileName>Light Bulb</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+            <Children>
+                <BinderItem UUID="50367880-F368-4BEE-99EB-FFDD34A0A12D" Type="Text" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>충동구매와 SRAD-NSSI</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="CFF7EF50-F8A8-4472-BF10-83636335A49F" Type="TrashFolder" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="16D0B43E-4D4A-4E66-A572-309E861745B4" Type="Text" Created="2023-03-20 17:17:16 +0900" Modified="2023-03-20 17:17:17 +0900">
+                    <Title>2. 우울 불안 장애 치료수요 예측</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="22712F69-DEF4-4311-9F4D-1097577D47B8" Type="PDF" Created="2023-03-20 17:12:10 +0900" Modified="2023-03-20 17:12:10 +0900">
+                    <Title>『마이어스의 심리학 제13판』 각 장의 개관</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>0</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem UUID="BC0279FC-3BE7-42F2-A8C1-CC3A9C149E3A" Type="Text" Created="2023-03-31 17:52:03 +0900" Modified="2023-03-31 17:53:47 +0900">
+                    <Title>우울증은 예방이 중요하다</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>1259,0</TextSelection>
+                    </TextSettings>
+                    <Bookmarks>
+                        <Bookmark BinderUUID="A1434377-F017-4724-B730-F9FA8715DAFB"/>
+                    </Bookmarks>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="034CF43D-E317-4000-8855-44041DD5AEA4" Type="Image" Created="2023-04-03 16:30:02 +0900" Modified="2023-04-03 16:30:02 +0900">
+            <Title>figure_metal_budget_trend</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>png</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.0</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+            <Bookmarks>
+                <Bookmark BinderUUID="5592A884-CB00-4937-93FF-4470EBC2C920"/>
+            </Bookmarks>
+        </BinderItem>
+        <BinderItem UUID="51F96E91-99BE-4925-94FF-1C1DE33D6E87" Type="Image" Created="2023-04-03 13:03:36 +0900" Modified="2023-04-03 13:03:36 +0900">
+            <Title>figure_budget-expenditure</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>png</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.0</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem UUID="30556525-0582-4FAE-9E4C-ED05C8C283A2" Type="Image" Created="2023-04-03 12:05:23 +0900" Modified="2023-04-03 12:05:23 +0900">
+            <Title>figure_balance</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>png</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.0</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem UUID="0D7C15B4-F992-4D30-BD70-995F51943A45" Type="Image" Created="2023-04-03 19:30:47 +0900" Modified="2023-04-03 19:30:47 +0900">
+            <Title>figure_corona_blue</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>png</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.0</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+        <BinderItem UUID="C6FCB365-173F-4F75-A93E-C5C335A27F81" Type="Image" Created="2023-04-03 19:45:41 +0900" Modified="2023-04-03 19:45:41 +0900">
+            <Title>figure_corona_depression</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+                <FileExtension>png</FileExtension>
+                <ShowSynopsisImage>Yes</ShowSynopsisImage>
+            </MetaData>
+            <MediaSettings>
+                <ImageScaleFactor>1.0</ImageScaleFactor>
+                <ImageRotation>None</ImageRotation>
+                <ImageScalesProportionally>No</ImageScalesProportionally>
+            </MediaSettings>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="4C2F914B-7D10-4841-A6C9-435502CC55BF" Color="0.112547 0.112547 0.112547">
+            <Title>바인더</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="ED9F42CB-8CEB-4870-9E2B-055AE0543F3E" Color="0.190666 0.172707 0.216531">
+            <Title>검색 결과</Title>
+            <SearchSettings Operator="Any" Type="All" CaseSensitive="No" IgnoreDiacritics="No">과체중</SearchSettings>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="891199B1-4E9A-4759-98D0-1CEF217658CF">Group</Type>
+            <Type ID="A883104D-1816-433D-B90A-4BD2C6D77E24">Level 1 Text</Type>
+            <Type ID="17062F3B-7533-4E2C-ACA8-0C235FDA939C">Level 2 Text</Type>
+            <Type ID="52756C26-D1AE-4EA3-A030-F249ED758C1A">Level 3 Text</Type>
+            <Type ID="28E6ABEB-7EE7-4B72-854E-E0D30FAEACCD">Level 4 Text</Type>
+            <Type ID="F18F0C9C-9069-4DE9-9608-5DBBDCA46E06">Level 5 Text</Type>
+            <Type ID="A6236670-1A67-4E91-816E-0B5EC16FE320">Title Page</Type>
+            <Type ID="B490852A-D17E-421E-919B-DAF661BCE021">Abstract</Type>
+            <Type ID="FB9C8F9C-D9C1-4EDC-B971-D3AB470FE265">Introduction</Type>
+            <Type ID="B516FD6F-0C8A-4F14-BFC5-B10221D9CC60">References</Type>
+            <Type ID="295E07FE-256E-459E-A4AD-913F8C9F107B">Footnotes</Type>
+            <Type ID="FE626F52-1C34-4D70-96CE-4C0562873021">Appendix</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>891199B1-4E9A-4759-98D0-1CEF217658CF</Type>
+            </Folders>
+            <Containers>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>17062F3B-7533-4E2C-ACA8-0C235FDA939C</Type>
+                <Type>52756C26-D1AE-4EA3-A030-F249ED758C1A</Type>
+                <Type>28E6ABEB-7EE7-4B72-854E-E0D30FAEACCD</Type>
+                <Type>F18F0C9C-9069-4DE9-9608-5DBBDCA46E06</Type>
+            </Containers>
+            <Files>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>A883104D-1816-433D-B90A-4BD2C6D77E24</Type>
+                <Type>17062F3B-7533-4E2C-ACA8-0C235FDA939C</Type>
+                <Type>52756C26-D1AE-4EA3-A030-F249ED758C1A</Type>
+                <Type>28E6ABEB-7EE7-4B72-854E-E0D30FAEACCD</Type>
+                <Type>F18F0C9C-9069-4DE9-9608-5DBBDCA46E06</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="2" Color="0.993495 0.701207 0.732587">Red</Label>
+            <Label ID="3" Color="0.995418 0.790946 0.652385">Orange</Label>
+            <Label ID="4" Color="0.997722 0.89273 0.652569">Yellow</Label>
+            <Label ID="5" Color="0.715855 0.948712 0.697692">Green</Label>
+            <Label ID="6" Color="0.702319 0.888276 0.974252">Blue</Label>
+            <Label ID="7" Color="0.957566 0.766747 0.999616">Purple</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">To Do</Status>
+            <Status ID="1">First Draft</Status>
+            <Status ID="2">Revised Draft</Status>
+            <Status ID="3">Final Draft</Status>
+            <Status ID="4">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 20:27:17 +0900" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2023-04-06 00:00:00 +0900" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-1" Characters="-1" Date="2023-04-05 00:02:40 +0900"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2023-04-05 00:00:00 +0900">
+        <DraftWordCount>-1</DraftWordCount>
+        <DraftCharCount>-1</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <BookmarksFolderUUID>48A5DCAC-11AA-434A-8DE1-F5C293BE283A</BookmarksFolderUUID>
+    <PrintSettings PaperSize="595.275549,841.889771" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="iso-a4" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

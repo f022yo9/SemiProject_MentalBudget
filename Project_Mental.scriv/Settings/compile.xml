@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings Template="Yes">
+    <ProjectSettings>
+        <MetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+        <Replacements>
+            <Replacement>
+                <Replace><![CDATA[{School-Name}]]></Replace>
+                <With><![CDATA[고려대학교 미디어문예창작학과(경영학 이중전공) 졸업]]></With>
+            </Replacement>
+        </Replacements>
+    </ProjectSettings>
+    <FormatSettings>
+        <Format ID="apa-format">
+            <SectionLayouts>
+                <Type ID="891199B1-4E9A-4759-98D0-1CEF217658CF">DB9F2FA7-8D4B-4BBC-9440-DF3EC2B2AB95</Type>
+                <Type ID="A883104D-1816-433D-B90A-4BD2C6D77E24">TEXT-SECTION</Type>
+                <Type ID="17062F3B-7533-4E2C-ACA8-0C235FDA939C">7CE63A7B-1B9A-4D0D-815B-9398A7299B22</Type>
+                <Type ID="52756C26-D1AE-4EA3-A030-F249ED758C1A">D2979B7B-7E63-4CF7-8120-C59F6D045F0E</Type>
+                <Type ID="28E6ABEB-7EE7-4B72-854E-E0D30FAEACCD">12503CB6-9E06-4A3E-AFB1-71EFDC44EF23</Type>
+                <Type ID="F18F0C9C-9069-4DE9-9608-5DBBDCA46E06">BD09B518-A00D-43BF-826E-5FA54917885D</Type>
+                <Type ID="A6236670-1A67-4E91-816E-0B5EC16FE320">E5F7D4A0-F24D-4AC5-927F-8872CEBE6286</Type>
+                <Type ID="B490852A-D17E-421E-919B-DAF661BCE021">E7E271E1-0234-4B08-B795-C2F76F01D0E8</Type>
+                <Type ID="FB9C8F9C-D9C1-4EDC-B971-D3AB470FE265">D6A19FB2-F727-4D14-9FBC-447ADE87506F</Type>
+                <Type ID="B516FD6F-0C8A-4F14-BFC5-B10221D9CC60">F09E91C5-2FAA-4EDB-A8CD-8E54D1CB3CDF</Type>
+                <Type ID="295E07FE-256E-459E-A4AD-913F8C9F107B">C1799F0B-C71F-4892-BD81-36C0F6DC3218</Type>
+                <Type ID="FE626F52-1C34-4D70-96CE-4C0562873021">5EAE2DD8-4390-49F7-867F-CBA8BD204EBC</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <CurrentFileType>pdf</CurrentFileType>
+    <LastUsedFormats>
+        <Print>apa-format</Print>
+        <pdf>apa-format</pdf>
+        <rtf>apa-format</rtf>
+    </LastUsedFormats>
+</CompileSettings>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Styles>
+    <Style Name="제목" ID="7E14BA9F-3A97-48F0-BB53-50392EFE8416" Type="Para+Char" FontChange="Face+Size" Shortcut="3">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCEB;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\b\fs38 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="헤딩 1" ID="BA459FCF-82F0-4BDA-B6E0-C1C8CE58D555" Type="Para+Char" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl360\slmult1\sb220\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <$ScrKeepWithNext><$Scr_H::1>
+\f1\b\fs36 Attributes
+\f0\b0\fs24 <!$Scr_H::1>}]]></Format>
+    </Style>
+    <Style Name="헤딩 2" ID="C45FD15D-4B02-4F46-8AA6-0D27CDFC5F0F" Type="Para+Char" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;\f1\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\sl360\slmult1\sb220\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 <$ScrKeepWithNext><$Scr_H::2>
+\f1\b\fs22 Attributes
+\f0\b0\fs24 <!$Scr_H::2>}]]></Format>
+    </Style>
+    <Style Name="텍스트 가운데 맞춤" ID="634D3755-4D09-44DC-8310-9587000DF084" Type="Para">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\sl360\slmult1\sa120\pardirnatural\qc\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="인용 부호 차단" ID="B306AB28-9454-46EB-BD33-64ECDF3992A3" Type="Para" FontChange="Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\li720\sl360\slmult1\sb240\sa240\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="속성" ID="5C982DA4-9CB8-4B04-BDC2-0322DD85499A" Type="Para" FontChange="Size" Shortcut="">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\li720\sl360\slmult1\sa240\pardirnatural\qr\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="코드 블록" ID="15E3DF89-EBB2-44CD-B6A7-5D72A58F74AF" Type="Para+Char" FontChange="Face+Size" Next="15E3DF89-EBB2-44CD-B6A7-5D72A58F74AF">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\tx1800\tx2160\li720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="Verse" ID="156EAA1B-3B0A-494F-AA6C-B7ED2D5F0892" Type="Para" FontChange="Size" Next="156EAA1B-3B0A-494F-AA6C-B7ED2D5F0892">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\sl360\slmult1\pardirnatural\qc\partightenfactor0
+
+\f0\fs24 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="코드 스팬" ID="54670021-0ED3-440E-861E-D5665360B110" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx720\tx1080\tx1440\tx1800\tx2160\li720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="강조" ID="BB1725FF-74D6-40F1-8D68-16D569AF52BE" Type="Char" Next="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Shortcut="6">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCM;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs22 \cf0 \ul \ulc0 Attributes}]]></Format>
+    </Style>
+    <Style Name="본문" ID="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Type="Para+Char" FontChange="Face+Size" Next="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Shortcut="1">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="위 첨자" ID="298DB60C-861E-42E8-9F29-38E58458480A" Type="Char" FontChange="Face+Size" Shortcut="5">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs14 \cf0 \up4 Attributes}]]></Format>
+    </Style>
+    <Style Name="부제목" ID="21E23F5B-DE6F-4F6E-AB40-875C2E0318D3" Type="Para+Char" FontChange="Face+Size" Next="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Shortcut="2">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\li283\fi-283\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\b\fs30 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="인용문 틀" ID="1EC0D39A-7913-45D6-8569-418B142BA034" Type="Para" FontChange="Face+Size" Next="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Shortcut="8">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\li283\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs20 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="인용문 글자" ID="19768CF3-8B56-4675-AF5E-0DBD64B3A67D" Type="Char" FontChange="Face+Size">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;\red21\green21\blue21;}
+{\*\expandedcolortbl;;\cssrgb\c10830\c10830\c10830;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs20 \cf2 \expnd0\expndtw0\kerning0
+Attributes}]]></Format>
+    </Style>
+    <Style Name="참고문헌" ID="A75CD03C-772F-4390-AFFE-1476765896A6" Type="Para+Char" FontChange="Face+Size" Next="A75CD03C-772F-4390-AFFE-1476765896A6" Shortcut="9">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx283\tx567\tx850\tx1134\tx1417\tx1701\tx1984\tx2268\tx2551\tx2835\tx3118\tqr\tx9355\tqr\tx9639\tqr\tx9922\sl360\slmult1\pardirnatural\qj\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="아래첨자" ID="175EC3E8-82CB-4AA7-A2E8-F459D585CACB" Type="Char" FontChange="Size" Next="E162816C-8F56-4DA9-B6CC-88CF9F19E8D4" Shortcut="4">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs14 \cf0 Attributes}]]></Format>
+    </Style>
+    <Style Name="글꼴 되돌리기" ID="C025841D-CCA6-4927-BB3D-811C821AB14D" Type="Char" FontChange="Face+Size" Shortcut="7">
+        <Format><![CDATA[{\rtf1\ansi\ansicpg949\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset129 SeoulHangangCL;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6747\fi170\sl360\slmult1\sa120\pardirnatural\qj\partightenfactor0
+
+\f0\fs22 \cf0 Attributes}]]></Format>
+    </Style>
+</Styles>
